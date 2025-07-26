@@ -39,8 +39,8 @@ The model can classify the following bone fracture types:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/yolo_bone_injury_classification.git
-cd yolo_bone_injury_classification
+git clone https://github.com/parthib22/YOLO-Bone-Injury-Classification.git
+cd YOLO-Bone-Injury-Classification
 ```
 
 2. Install required packages:
